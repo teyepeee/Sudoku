@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="new_game">New Game</string>
+    <string name="time_remaining">Time Remaining</string>
+    <string name="times_up">Time\'s up!</string>
+    <string name="start_new_game">Start New Game?</string>
+    <string name="reset_game">This will reset your current game</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="completed_game">You have completed this game</string>
+    <string name="aw_snap">Aw, Snap!</string>
+    <string name="not_completed_game">You have failed to complete this game</string>
+    <string name="try_again">Oops, try again!</string>
+    <string name="solve_me">Solve Me!</string>
+    <string name="close">Close</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+</resources>

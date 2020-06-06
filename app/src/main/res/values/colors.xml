@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#324D5C</color>
+    <color name="colorPrimaryDark">#273D49</color>
+    <color name="colorAccent">#E37B40</color>
+
+    <color name="cellDark">@color/colorPrimary</color>
+    <color name="cellLight">#3B5767</color>
+    <color name="buttonGreen">#54B273</color>
+    <color name="white">#FFFFFF</color>
+</resources>
